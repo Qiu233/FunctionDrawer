@@ -1,0 +1,14 @@
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\FunctionDrawer.exe.config
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\FunctionDrawer.exe
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\FunctionDrawer.pdb
+D:\C\FunctionDrawer\FunctionDrawer\obj\Debug\FunctionDrawer.csprojResolveAssemblyReference.cache
+D:\C\FunctionDrawer\FunctionDrawer\obj\Debug\FunctionDrawer.Properties.Resources.resources
+D:\C\FunctionDrawer\FunctionDrawer\obj\Debug\FunctionDrawer.csproj.GenerateResource.Cache
+D:\C\FunctionDrawer\FunctionDrawer\obj\Debug\FunctionDrawer.exe
+D:\C\FunctionDrawer\FunctionDrawer\obj\Debug\FunctionDrawer.pdb
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\Evaluation.exe
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\Evaluation.pdb
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\Evaluation.exe.config
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\SharpGL.dll
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\SharpGL.WinForms.dll
+D:\C\FunctionDrawer\FunctionDrawer\bin\Debug\SharpGL.SceneGraph.dll

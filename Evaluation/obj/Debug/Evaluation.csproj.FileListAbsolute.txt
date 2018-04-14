@@ -1,0 +1,6 @@
+D:\C\FunctionDrawer\Evaluation\bin\Debug\Evaluation.exe.config
+D:\C\FunctionDrawer\Evaluation\bin\Debug\Evaluation.exe
+D:\C\FunctionDrawer\Evaluation\bin\Debug\Evaluation.pdb
+D:\C\FunctionDrawer\Evaluation\obj\Debug\Evaluation.csprojResolveAssemblyReference.cache
+D:\C\FunctionDrawer\Evaluation\obj\Debug\Evaluation.exe
+D:\C\FunctionDrawer\Evaluation\obj\Debug\Evaluation.pdb

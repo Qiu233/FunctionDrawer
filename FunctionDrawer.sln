@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluation", "Evaluation\Evaluation.csproj", "{F1FD9FB7-2530-491E-A077-EAC82023E0A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionDrawer", "FunctionDrawer\FunctionDrawer.csproj", "{C4BF3A82-1703-47FC-946F-521F23D7AB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FD9FB7-2530-491E-A077-EAC82023E0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FD9FB7-2530-491E-A077-EAC82023E0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FD9FB7-2530-491E-A077-EAC82023E0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FD9FB7-2530-491E-A077-EAC82023E0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BF3A82-1703-47FC-946F-521F23D7AB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BF3A82-1703-47FC-946F-521F23D7AB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BF3A82-1703-47FC-946F-521F23D7AB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BF3A82-1703-47FC-946F-521F23D7AB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

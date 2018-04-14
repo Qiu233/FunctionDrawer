@@ -1,0 +1,5 @@
+D:\C\FunctionDrawer\Evaluation\bin\Release\Evaluation.exe.config
+D:\C\FunctionDrawer\Evaluation\bin\Release\Evaluation.exe
+D:\C\FunctionDrawer\Evaluation\bin\Release\Evaluation.pdb
+D:\C\FunctionDrawer\Evaluation\obj\Release\Evaluation.exe
+D:\C\FunctionDrawer\Evaluation\obj\Release\Evaluation.pdb
